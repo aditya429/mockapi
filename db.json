@@ -2,7 +2,7 @@
   {
     "id": 1,
     "contact_name" : "Sai",
-"contact_number" : "+91-9123456789",
+"contact_number" : "919123456789",
     "contact_email": "abc@gmail.com",
     "contact_type": "Personal",
     "contact_avatar": "https://www.seekpng.com/png/detail/966-9665493_my-profile-icon-blank-profile-image-circle.png"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "contact_name": "Aditya",
-"contact_number": "+91-9995435634",
+"contact_number": "919995435634",
     "contact_email": "xyz@gmail.com",
     "contact_type": "Personal",
     "contact_avatar": "https://w7.pngwing.com/pngs/722/101/png-transparent-computer-icons-user-profile-circle-abstract-miscellaneous-rim-account.png"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "contact_name": "Mahesh",
-"contact_number": "+91-9945123450",
+"contact_number": "919945123450",
     "contact_email": "cdc@gmail.com",
     "contact_type": "Business",
     "contact_avatar": "https://www.clipartmax.com/png/middle/171-1717870_stockvader-predicted-cron-for-may-user-profile-icon-png.png"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "contact_name": "Rajesh",
-"contact_number": "+91-7386896084",
+"contact_number": "917386896084",
     "contact_email": "drg@gmail.com",
     "contact_type": "Personal",
     "contact_avatar": "https://www.nicepng.com/png/detail/202-2024687_profile-icon-for-the-politics-category-profile-icon.png"
@@ -34,9 +34,9 @@
   {
     "id": 5,
     "contact_name": "Krishna",
-"contact_number" : "+91-9123456789",
+"contact_number" : "919123456789",
     "contact_email": "yui@gmail.com",
     "contact_type": "Business",
-    "contact_avatar": "https://www.kindpng.com/picc/m/495-4952535_create-digital-profile-icon-blue-user-profile-icon.png"
+    "contact_avatar": "https://www.clipartmax.com/png/middle/171-1717870_stockvader-predicted-cron-for-may-user-profile-icon-png.png"
   }
 ]}
